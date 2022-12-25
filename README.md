@@ -1,2 +1,2 @@
 # mlap
-machine learning asset pricing
+Autoencoer Asset Pricing (Gu, Kelley, Xiu)
